@@ -6,18 +6,18 @@ Project structure:
 
 Project set-up:
 + From the IntelliJ main menu, select File | Open. Also can click open on the welcome screen.
-+ Then select the projects \LabsRepo\L1\maven\pom.xml file, next click OK.
++ Then select the projects : \L1\maven\pom.xml file, next click OK.
 + In following dialogue click Open as Project, so that IntelliJ syncs.
 
 
 You should run CheckBox.java to test.
-1.CheckBox.java:(path:LabsRepo\L1\src\CheckBox.java)
+1.CheckBox.java:(path:\L1\src\CheckBox.java)
 Select checkbox for query desired.
 
-2.DOMParserDemo.java:(path:LabsRepo\L1\src\DOMParserDemo.java)
+2.DOMParserDemo.java:(path: L1\src\DOMParserDemo.java)
 Parse all data in dblp-soc-papers.xml and store them into MySQL database.
 
-3.Paper.java:(path:LabsRepo\L1\src\Paper.java)
+3.Paper.java:(path: L1\src\Paper.java)
 Define a list of attributes and act as a transit point for data from XML to database.
 
 
